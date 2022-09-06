@@ -32,6 +32,8 @@ TPS? RPG?, 탄막슈팅?
 <!-- summary 아래 한칸 공백 두어야함 -->
 상태패턴 디자인 적용
 유니티 New Input Manager 활용하여 키 바인딩 시스템 제작
+타겟팅 기능 구현  
+시야각 안에 있을 때 자동 타겟팅 및 수동 타겟팅
 </details>
 
 <details>
@@ -40,6 +42,14 @@ TPS? RPG?, 탄막슈팅?
 <!-- summary 아래 한칸 공백 두어야함 -->
 유한 상태 기계를 활용한 몬스터 디자인  
 범위 추적 기능과 추적 중단시 추적전 위치로 되돌아가는 기능  
+</details>
+
+<details>
+<summary>NPC</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+유한 상태 기계를 이용한 자동 전투  
+플레이어가 동료로 영입 가능하게
 </details>
 
 <details>
